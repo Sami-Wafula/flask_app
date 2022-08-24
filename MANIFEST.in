@@ -1,0 +1,4 @@
+include flywhisk/schema.sql
+graft flywhisk/static
+graft flywhisk/templates
+global-exclude *.pyc
